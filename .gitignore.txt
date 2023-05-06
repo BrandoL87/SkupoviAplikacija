@@ -1,0 +1,4 @@
+/Skupovi/obj
+/Skupovi/bin
+/SkupoviAplikacija/obj
+/SkupoviAplikacija/bin
